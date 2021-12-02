@@ -34,7 +34,7 @@ Version 3.6 (2020/12/19)
 │          [+] Changed Output                 │
 │          [+] Added Url Parser               │
 ├─────────────────────────────────────────────┤
-│ Link: https://github.com/Leeon123/CC-attack │
+│ Discord = Dzull#8839 │
 └─────────────────────────────────────────────┘''')
 
 acceptall = [
@@ -723,4 +723,4 @@ def main():
 	
 
 if __name__ == "__main__":
-	main()#Coded by Leeon123
+	main()#Coded by Dzull
